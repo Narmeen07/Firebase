@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "45724497281",
+    "project_id": "database-feef5",
+    "storage_bucket": "database-feef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45724497281:android:ba7cd5b7a464bd423ee480",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45724497281-catcnot8abrnf4svvljnhgj56tqutgqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA780PDxKCK3lFeZjiMlNiin5bwBSWn9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45724497281-catcnot8abrnf4svvljnhgj56tqutgqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
